@@ -1,0 +1,15 @@
+[physicsnemo.models]
+AFNO = physicsnemo.models.afno:AFNO
+DLWP = physicsnemo.models.dlwp:DLWP
+EDMPrecondSR = physicsnemo.models.diffusion:EDMPrecondSR
+FNO = physicsnemo.models.fno:FNO
+Fengwu = physicsnemo.models.fengwu:Fengwu
+FullyConnected = physicsnemo.models.mlp:FullyConnected
+GraphCastNet = physicsnemo.models.graphcast:GraphCastNet
+MeshGraphNet = physicsnemo.models.meshgraphnet:MeshGraphNet
+One2ManyRNN = physicsnemo.models.rnn:One2ManyRNN
+Pangu = physicsnemo.models.pangu:Pangu
+Pix2Pix = physicsnemo.models.pix2pix:Pix2Pix
+SRResNet = physicsnemo.models.srrn:SRResNet
+SwinRNN = physicsnemo.models.swinvrnn:SwinRNN
+UNet = physicsnemo.models.diffusion:UNet
